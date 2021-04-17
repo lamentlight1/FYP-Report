@@ -1,0 +1,48 @@
+{
+    "MahJong": {
+        "checkpoints": [
+            {
+                "steps": 21695011,
+                "file_path": "results\\mjSimple\\MahJong\\MahJong-21695011.onnx",
+                "reward": -0.3329999999841675,
+                "creation_time": 1618490500.427946
+            },
+            {
+                "steps": 21695011,
+                "file_path": "results\\mjSimple\\MahJong\\MahJong-21695011.onnx",
+                "reward": null,
+                "creation_time": 1618557882.1759086
+            },
+            {
+                "steps": 21695011,
+                "file_path": "results\\mjSimple\\MahJong\\MahJong-21695011.onnx",
+                "reward": null,
+                "creation_time": 1618557910.150291
+            },
+            {
+                "steps": 21695011,
+                "file_path": "results\\mjSimple\\MahJong\\MahJong-21695011.onnx",
+                "reward": null,
+                "creation_time": 1618558023.9493797
+            },
+            {
+                "steps": 21695011,
+                "file_path": "results\\mjSimple\\MahJong\\MahJong-21695011.onnx",
+                "reward": null,
+                "creation_time": 1618558122.4611933
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 21695011,
+            "file_path": "results\\mjSimple\\MahJong.onnx",
+            "reward": null,
+            "creation_time": 1618558122.4611933
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": "2.4.0"
+    }
+}
